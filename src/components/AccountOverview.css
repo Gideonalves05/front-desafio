@@ -1,0 +1,23 @@
+.account-overview-container {
+    color: #000000;
+    margin-top: 50px;
+    text-align: center;
+  }
+  
+  .account-info {
+    display: inline-block;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .account-info p {
+    margin: 10px 0;
+    font-size: 18px;
+  }
+  
+  strong {
+    color: #2a9d8f;
+  }
+  
